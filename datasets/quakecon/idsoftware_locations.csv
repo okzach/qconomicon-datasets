@@ -1,7 +1,7 @@
-location_id,name,address,latitude,longitude
-softdisk,Softdisk Offices,"600 Common St, Shreveport, LA 71101",32.5092048,-93.75147
-idlakehouse,id Lake House (?-1990?1991?),"7450 S Lakeshore Dr, Shreveport, LA 71119",32.510521,-93.891133
-idlaprada,La Prada apartments (1991-1992),"1901 Pinehurst Ln, Mesquite, TX 75150",32.839867,-96.635597
-idcube,id Cube (1992-2000),"18601 Lyndon B Johnson Fwy, Mesquite, TX 75150",32.8036719,-96.6274768
-idmesquite,id Software (2000-2011),"4070 Towne Crossing Blvd, Mesquite, TX 75150",32.8170438,-96.6313815
-idsoftware,id Software (2011-current),"1500 N Greenville Ave, Richardson, TX 75081",32.968731,-96.718189
+location_id,title,address,city,state,zip,latitude,longitude
+softdisk,Softdisk Offices,600 Common St,Shreveport,LA,71101,32.5092048,-93.75147
+idlakehouse,id Lake House (?-1990?1991?),7450 S Lakeshore Dr,Shreveport,LA,71119,32.510521,-93.891133
+idlaprada,La Prada apartments (1991-1992),1901 Pinehurst Ln,Mesquite,TX,75150,32.839867,-96.635597
+idcube,id Cube (1992-2000),18601 Lyndon B Johnson Fwy,Mesquite,TX,75150,32.8036719,-96.6274768
+idmesquite,id Software (2000-2011),4070 Towne Crossing Blvd,Mesquite,TX,75150,32.8170438,-96.6313815
+idsoftware,id Software (2011-current),1500 N Greenville Ave,Richardson,TX,75081,32.968731,-96.718189
