@@ -2,7 +2,7 @@
 
 Is Shark Week planned around QuakeCon or is QuakeCon planned around Shark Week?
 
-Here is the data, now you find out!
+Here is the data, now you can find out!
 
 ## About
 
