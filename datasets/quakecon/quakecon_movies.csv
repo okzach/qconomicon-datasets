@@ -1,0 +1,15 @@
+event_id,troupe_id,troupe_name,imdb_id,imdb_url,imdb_title,imdb_year
+quakecon2002,mrsinus,Mr Sinus Theater,tt0275022,http://www.imdb.com/title/tt0275022/,Crossroads,2002
+quakecon2003,mrsinus,Mr Sinus Theater,tt0088247,http://www.imdb.com/title/tt0088247/,"Terminator, The",1984
+quakecon2004,mrsinus,Mr Sinus Theater,tt0092099,http://www.imdb.com/title/tt0092099/,Top Gun,1986
+quakecon2005,sinusshow,The Sinus Show,tt0087985,http://www.imdb.com/title/tt0087985/,Red Dawn,1984
+quakecon2006,sinusshow,The Sinus Show,tt0087277,http://www.imdb.com/title/tt0087277/,Footloose,1984
+quakecon2007,sinusshow,The Sinus Show,tt0419706,http://www.imdb.com/title/tt0419706/,Doom,2005
+quakecon2008,raspberrybros,Raspberry Brothers,tt0417148,http://www.imdb.com/title/tt0417148/,Snakes on a Plane,2006
+quakecon2009,raspberrybros,Raspberry Brothers,tt0120737,http://www.imdb.com/title/tt0120737/,Lord of the Rings,2001
+quakecon2010,masterpancake,Master Pancake Theater,tt0133093,http://www.imdb.com/title/tt0133093/,"Matrix, The",1999
+quakecon2011,masterpancake,Master Pancake Theater,tt1099212,http://www.imdb.com/title/tt1099212/,Twilight,2008
+quakecon2012,masterpancake,Master Pancake Theater,tt0088763,http://www.imdb.com/title/tt0088763/,Back to the Future,1985
+quakecon2013,masterpancake,Master Pancake Theater,tt0084726,http://www.imdb.com/title/tt0084726/,Star Trek 2: Wrath of Khan,1982
+quakecon2014,masterpancake,Master Pancake Theater,tt0091369,http://www.imdb.com/title/tt0091369/,Labyrinth,1986
+quakecon2015,masterpancake,Master Pancake Theater,tt0107290,http://www.imdb.com/title/tt0107290/,Jurassic Park,1993
