@@ -10,7 +10,7 @@ One of those d words.
 
 ## What is here?
 
-* The [mapdata](/datasets/mapdata) used for [https://qconomicon.com/map/](https://qconomicon.com/map/).
+* The [mapdata](/datasets/mapdata) used for [https://qconomicon.com/map/](https://qconomicon.com/map/) and [https://qconomicon.com/map/quakecon2016/](https://qconomicon.com/map/quakecon2016/).
 
 * A list of [Shark Week](/datasets/sharkweek) dates to compare against QuakeCon dates.
 
